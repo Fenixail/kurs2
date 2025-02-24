@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApp1.agent">
+    <Position X="30" Y="14.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAASAAAACAAAoAAAAAEAAAABAAAA=</HashCode>
+      <FileName>agent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.DB">
+    <Position X="21.75" Y="14.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form1">
+    <Position X="25.75" Y="14.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAASAAAACAAAoAAgAEFAAAABAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Form2">
+    <Position X="14.25" Y="15.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAIAAACAAABAAAACAABBCIAAYAAAAEGAAAABAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.kvartira1">
+    <Position X="33.25" Y="14.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>MCAAAAAAACAAABAAAACAABBCAAC4AAAIEnAAAABAEAA=</HashCode>
+      <FileName>kvartira1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.kvartira2">
+    <Position X="19.5" Y="17.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>MCAAAAAAACAAABAAAACAABBCAAA4AAAAEnAAAABAEAA=</HashCode>
+      <FileName>kvartira2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.kvartira3">
+    <Position X="28.75" Y="21.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>MCAAAAAAACAAABAAAACACBBCAAA4AAgAEnAAAABAEAA=</HashCode>
+      <FileName>kvartira3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Menu">
+    <Position X="23.75" Y="21" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAASAEAgAAAAAFQIAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Program">
+    <Position X="24" Y="19.25" Width="8.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.spisok">
+    <Position X="18.25" Y="24.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAhgAACAAABAAAByAAAACAAAsAAAAAEAAAABAAAA=</HashCode>
+      <FileName>spisok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Properties.Resources">
+    <Position X="33" Y="25.75" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Properties.Settings">
+    <Position X="33.75" Y="22.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
